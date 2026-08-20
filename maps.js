@@ -1,2 +1,0 @@
-// site/js/maps.js
-const embedCode = '<iframe src="https://www.google.com/maps/embed?pb=!4v1786976221656!6m8!1m7!1stvhoyRTYucqzizxH_3OC3A!2m2!1d-19.85107563127274!2d-43.90531923762609!3f238.26155593009833!4f4.769804109705234!5f0.8228221213774864" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>';
